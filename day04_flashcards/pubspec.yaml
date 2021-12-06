@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flip_card: ^0.4.4
+  flip_card: ^0.6.0
 
 
   # The following adds the Cupertino Icons font to your application.
